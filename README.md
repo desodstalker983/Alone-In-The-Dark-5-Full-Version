@@ -239,4 +239,4 @@ This repository serves as the official landing page for Alone in the Dark 5. The
 **Get the most recent version of Alone in the Dark 5 today!**
 
 ---
-**Last updated:** 2026-10-18 10:44:39 UTC
+**Last updated:** 2026-10-18 14:24:31 UTC
